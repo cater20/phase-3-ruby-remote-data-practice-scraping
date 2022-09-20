@@ -7,6 +7,7 @@
 
 ## Introduction
 
+
 Web scraping is the act of parsing a web page's HTML and pulling, or "scraping"
 pertinent data from that HTML. In this reading, we'll take a brief look at what
 scraping is and how to accomplish it.
